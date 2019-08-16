@@ -8,5 +8,6 @@ public class Test {
 		System.out.println("wwwwwww11111111111111111");
 		System.out.println("不知道");
 		System.out.println("你说撒谎");
+		System.out.println("last");
 	}
 }
