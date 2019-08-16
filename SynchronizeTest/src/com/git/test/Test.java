@@ -7,5 +7,6 @@ public class Test {
 		System.out.println("恍惚");
 		System.out.println("wwwwwww");
 		System.out.println("不知道");
+		System.out.println("你说撒谎");
 	}
 }
