@@ -9,5 +9,6 @@ public class Test {
 		System.out.println("不知道");
 		System.out.println("你说撒谎");
 		System.out.println("pppp");
+		System.out.println("last");
 	}
 }
